@@ -1,6 +1,6 @@
 # 🤖 AI Agents – Intelligent Automation for Businesses
 
-This repository contains a collection of AI agents and automation workflows developed for **NeuraX**, a personal project built as an agency specializing in AI solutions for businesses. They are designed using tools like `n8n`, `Make.com`, and `OpenAI`, with a focus on solving real-world tasks: from customer service to marketing, HR, and accounting.
+This repository contains a collection of AI agents and automation workflows. They are designed using tools like `n8n`, `Make.com`, and `OpenAI`, with a focus on solving real-world tasks: from customer service to marketing, HR, and accounting.
 
 ---
 
